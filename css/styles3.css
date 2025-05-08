@@ -10,3 +10,13 @@ table{
     padding: 5px;
     font-family: 'Times New Roman', Times, serif;s
 }
+th{
+    background-color: green;
+    font-size: 400px bold;
+
+}
+nav ul li{
+    text-decoration: none;
+}
+
+   
